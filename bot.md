@@ -8,13 +8,14 @@ the format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
 ### Added
-- Model ID saves locally so you can talk to your dang anime waifu (just why) when you revisit the website
+- Model ID saves locally so you can talk to your dang anime waifu (just why) when you revisit the website. this means the model id stores on the current device you're using.
+- YOU CAN UPLOAD IMAGES YAY
 
 ### Changed
 - Enhanced UI
 
 ### Fixed
-- None
+- image and code embeds
 
 ### Removed
 - None
